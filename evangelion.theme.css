@@ -1,0 +1,38 @@
+/**
+ * @name Evangelion
+ * @version 8.0
+ * @description A simple but highly customizable theme, now sugar free!
+ * @author Spectra
+ * @invite PZdnCVD
+ * @source https://github.com/xcruxiex/themes
+ * @website https://betterdiscord.app/theme/Neutron
+ * @BDEditor Neutron
+*/
+
+@import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
+@import url('https://nyri4.github.io/Discolored/main.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+
+:root {
+  --backgroundImage: url('https://i.imgur.com/4Aytq05.jpg');
+  --backgroundColor: #000000;
+  --backgroundSize: auto;
+  --backgroundPosition: center;
+  --backgroundRepeat: repeat;
+  --backgroundBlur: 1px;
+  --backgroundOpacity: 0.6;
+  --homeImage: url('https://i.imgur.com/3r61cFY.jpg');
+  --homeImageSize: cover;
+  --themeColor1: #3A1F68;
+  --themeColor2: #2A3348;
+  --customFont: Josefin Sans;
+  --backgroundCode: rgb(41,0,20,0.5);
+  --backgroundName: rgb(215,54,174,0.5);
+  --columns: 2;
+  --guildgap: 3;
+  --aligndms: 0;
+}
+
+/* Any custom CSS below here */
+
+
