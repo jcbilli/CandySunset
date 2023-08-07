@@ -13,14 +13,14 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 
 :root {
-  --backgroundImage: url('https://i.imgur.com/4Aytq05.jpg');
+  --backgroundImage: url('https://assetsio.reedpopcdn.com/Neon-Genesis-Evangelion-Featured.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp');
   --backgroundColor: #000000;
   --backgroundSize: auto;
   --backgroundPosition: center;
   --backgroundRepeat: repeat;
   --backgroundBlur: 1px;
   --backgroundOpacity: 0.6;
-  --homeImage: url('https://i.imgur.com/3r61cFY.jpg');
+  --homeImage: url('https://assetsio.reedpopcdn.com/Neon-Genesis-Evangelion-Featured.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp');
   --homeImageSize: cover;
   --themeColor1: #3A1F68;
   --themeColor2: #2A3348;
