@@ -1,25 +1,28 @@
 /**
  * @name Evangelion
  * @version 8.0
- * @description cool af nge theme for my bud
+ * @description cool nge theme for my bud
  * @author Spectra, jcbillin
+ * @invite PZdnCVD
  * @source https://github.com/xcruxiex/themes
- * @website https://betterdiscord.app/theme/Neutron - ORIGINAL
+ * @website https://betterdiscord.app/theme/Neutron
  * @BDEditor Neutron
 */
 
 @import url('https://xcruxiex.github.io/themes/themes-cores/neutron8.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
 
 :root {
   --backgroundImage: url('https://assetsio.reedpopcdn.com/Neon-Genesis-Evangelion-Featured.jpg?width=1200&height=1200&fit=bounds&quality=70&format=jpg&auto=webp');
-  --backgroundColor: #000000;
-  --backgroundSize: auto;
+  --backgroundColor: #553636;
+  --backgroundSize: cover;
   --backgroundPosition: center;
   --backgroundRepeat: repeat;
-  --backgroundBlur: 1px;
-  --backgroundOpacity: 0.6;
+  --backgroundBlur: 2px;
+  --backgroundOpacity: 0.2;
   --homeImage: url('https://i.imgur.com/fw3V46r.png');
   --homeImageSize: cover;
   --themeColor1: #3A1F68;
@@ -30,7 +33,21 @@
   --columns: 2;
   --guildgap: 3;
   --aligndms: 0;
+  --rs-small-spacing: 2px;
+  --rs-medium-spacing: 2px;
+  --rs-large-spacing: 2px;
+  --rs-small-width: 2px;
+  --rs-medium-width: 2px;
+  --rs-large-width: 2px;
+  --rs-avatar-shape: 50%;
+  --rs-online-color: #43b581;
+  --rs-idle-color: #faa61a;
+  --rs-dnd-color: #f04747;
+  --rs-offline-color: #636b75;
+  --rs-streaming-color: #643da7;
+  --rs-phone-visible: block;
 }
 
 /* Any custom CSS below here */
+
 
